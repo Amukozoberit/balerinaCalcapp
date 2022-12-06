@@ -1,3 +1,4 @@
+application that gets the factorial of a number or sorts an array input by the user.
 # balerinaCalcapp
 ¬ setup ballerina app
 https://ballerina.io/learn/install-ballerina/set-up-ballerina/
